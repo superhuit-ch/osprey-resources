@@ -25,16 +25,16 @@
   },
   "homepage": "https://github.com/mulesoft-labs/osprey-resources",
   "devDependencies": {
-    "bluebird": "^3.0.5",
-    "chai": "^3.0.0",
-    "finalhandler": "^0.4.0",
-    "istanbul": "^0.4.0",
-    "mocha": "^2.1.0",
+    "bluebird": "^3.2.1",
+    "chai": "^3.5.0",
+    "finalhandler": "^0.4.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
     "native-or-bluebird": "^1.2.0",
     "popsicle": "^3.1.1",
     "popsicle-server": "^1.0.0",
-    "pre-commit": "^1.0.1",
-    "standard": "^5.3.1"
+    "pre-commit": "^1.1.2",
+    "standard": "^5.4.1"
   },
   "dependencies": {
     "osprey-router": "superhuit-ch/osprey-router"
